@@ -1,4 +1,6 @@
 # hedr
 
-### try typing hedr on your phone's call screen
+Onboarding the next billion users to Ethereum through EIP 4337
 
+Current project:
+1. reclaimable-wallet: SCW with built-in recovery powered by @reclaimprotocol
